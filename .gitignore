@@ -1,0 +1,12 @@
+# VS files
+*.sln
+*.csproj
+*.db
+*.suo
+*.csproj.user
+
+# VS dirictories
+.vs/
+bin/
+obj/
+packages/
